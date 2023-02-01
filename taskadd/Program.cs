@@ -14,6 +14,6 @@ if ( n > max ) {
   max = n;
 } else if (n > n1) n1 = n;
 
-Console.WriteLine($"n={n} max={max} n1={n1}");
+//Console.WriteLine($"n={n} max={max} n1={n1}");
 }
 Console.WriteLine(n1);
